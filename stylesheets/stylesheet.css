@@ -303,7 +303,7 @@ Full-Width Styles
 #forkme_banner_3 {
   display: block;
   position: absolute;
-  top:5;
+  top:10;
   right: 10px;
   z-index: 10;
   padding: 10px 50px 10px 10px;
